@@ -1,0 +1,23 @@
+.catbox {
+  display: flex;
+}
+
+.cat {
+  flex: 25%;
+}
+
+.cat1 {
+  flex: 25%;
+}
+
+.cat3 {
+  flex: 25%;
+}
+
+.cat4 {
+  flex: 25%;
+}
+
+.cat5 {
+  flex: 25%;
+}
