@@ -1,1 +1,3 @@
-# Wrap-Images-Inline-Using-Flex
+# Image Wrap
+
+Wrapped images with flexbox to keep them inline.
